@@ -1,0 +1,22 @@
+{"instruction": "把下面句子翻成英文：我爱自然语言处理。", "output": "I love natural language processing."}
+{"instruction": "用一句话解释注意力机制。",           "output": "根据上下文给不同词分配权重，从而聚焦关键信息。"}
+{"instruction": "把下面句子翻成英文：我爱自然语言处理。", "output": "I love natural language processing."}
+{"instruction": "用一句话解释注意力机制。", "output": "根据上下文给不同词分配权重，从而聚焦关键信息。"}
+{"instruction": "将这段话压缩成一句话：近年来，大语言模型在对话、翻译和编程等任务上表现突出，但也带来了安全与偏见问题，需要负责任地使用。", "output": "大语言模型能力强但伴随安全与偏见风险，需要负责任地应用。"}
+{"instruction": "判断情感（正面或负面）：这个产品太让人失望了。", "output": "负面"}
+{"instruction": "提取关键词：深度学习模型需要大量数据和计算资源来训练。", "output": "深度学习, 模型, 数据, 计算资源, 训练"}
+{"instruction": "把这句话改写得更礼貌：把报告立刻给我。", "output": "请尽快把报告发给我，谢谢。"}
+{"instruction": "纠正语法并保持原意：He go to school every day.", "output": "He goes to school every day."}
+{"instruction": "把这句话翻成中文：Transformers are powerful sequence models.", "output": "Transformer 是一种强大的序列模型。"}
+{"instruction": "为这段文字生成一个简短标题：人工智能正被用于医疗影像分析、客服自动化和交通优化等领域。", "output": "人工智能应用概览"}
+{"instruction": "用一句话解释 Transformer 的核心思想。", "output": "通过自注意力机制建模长程依赖，并行处理序列。"}
+{"instruction": "给出三条学习自注意力的建议。", "output": "从点积注意力公式入门；用小例子手算一遍；可视化权重理解关注点。"}
+{"instruction": "识别这句话的语言：Bonjour, comment ça va ?", "output": "法语"}
+{"instruction": "续写一句，使语义合理：春天到了，花园里", "output": "开满了五彩的花，空气里带着清新的泥土香。"}
+{"instruction": "将主动语态改为被动语态：The committee approved the proposal.", "output": "The proposal was approved by the committee."}
+{"instruction": "从句子中抽取时间和地点：我们将于2024年6月18日在北京召开发布会。", "output": "时间: 2024年6月18日; 地点: 北京"}
+{"instruction": "写一个匹配电子邮箱的正则表达式。", "output": "^[\\w\\.-]+@[\\w\\.-]+\\.[a-zA-Z]{2,}$"}
+{"instruction": "把下面三点合并为条目式摘要：1) 提升数据质量；2) 调整学习率；3) 增大批量大小。", "output": "- 提升数据质量\\n- 调整学习率\\n- 增大批量大小"}
+{"instruction": "给出单词 fast 的三个反义词。", "output": "slow, sluggish, leisurely"}
+{"instruction": "把这句话改写得更幽默：今天加班到很晚。", "output": "今天和公司谈了场持久的恋爱，直到深夜才分手。"}
+{"instruction": "用通俗的话解释 attention mask 的作用。", "output": "用来指定哪些位置可见、哪些位置要遮住，避免模型看见不该看的信息。"}
