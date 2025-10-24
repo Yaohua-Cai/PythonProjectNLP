@@ -39,7 +39,7 @@ CHANNELS = 1                                     # 单声道
 WINDOW_SECONDS = 2.4                              # 待机滑窗长度（秒）
 HOP_SECONDS = 0.8                                 # 滑步（秒），越小越灵敏
 
-WAKE_PHRASES = ["你好老丁", "您好老丁"]              # 规范化后的唤醒词（去标点/空白）
+WAKE_PHRASES = ["你好小倍", "您好小倍"]              # 规范化后的唤醒词（去标点/空白）
 COOLDOWN_SECONDS = 2.0                            # 唤醒冷却（秒），防连触发
 DEVICE_INDEX = None                               # 指定麦克风设备索引（None=默认）
 
